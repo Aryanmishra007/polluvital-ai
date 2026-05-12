@@ -60,6 +60,7 @@ pollu_vital_ai/
 3. Build settings are already configured in `netlify.toml`:
    - Build command installs Flutter, gets dependencies, and builds web release.
    - Publish directory is `build/web`.
+   - SPA routing is configured to serve `index.html` for all routes.
 4. Deploy.
 5. After deploy, open app -> **Set AQI Token** and save your AQICN token.
 
