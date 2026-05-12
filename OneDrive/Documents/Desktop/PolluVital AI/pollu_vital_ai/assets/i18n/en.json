@@ -1,0 +1,15 @@
+{
+  "app_title": "PolluVital AI",
+  "tagline": "Your phone warns you before pollution harms your health",
+  "start_scan": "Start 30s Scan",
+  "set_token": "Set AQI Token",
+  "latest_result": "Latest Result",
+  "risk_level": "Risk Level",
+  "weekly_trend": "Weekly Trend",
+  "credits": "Credits",
+  "privacy_notice": "Privacy: Face video and breathing audio stay on this phone.",
+  "high_risk": "High Risk",
+  "moderate_risk": "Moderate Risk",
+  "low_risk": "Low Risk"
+}
+

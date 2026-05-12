@@ -1,0 +1,4 @@
+sample_id,subject_id,timestamp,video_path,audio_path,aqi,hr_now,rr_now,spo2_now,stress_now,breath_class,hr_delta_1h,hr_delta_2h,hr_delta_4h,breath_risk_1h,breath_risk_2h,breath_risk_4h,risk_score_1h,risk_score_2h,risk_score_4h
+s001,sub_001,2026-04-01T09:10:00,dataset/subject_001/session_2026-04-01_09-10/face.mp4,dataset/subject_001/session_2026-04-01_09-10/breath.wav,172,82,18,97,0.42,normal,4,7,11,0.12,0.18,0.25,0.29,0.36,0.44
+s002,sub_002,2026-04-01T10:45:00,dataset/subject_002/session_2026-04-01_10-45/face.mp4,dataset/subject_002/session_2026-04-01_10-45/breath.wav,245,90,22,95,0.61,wheezing,9,14,18,0.38,0.55,0.67,0.53,0.64,0.78
+
